@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "f98d1c687b7f66a14c14b1af7c214e54d3cf8fd2802b4c2eea2bf95792e9d8e0"
-build_start_time: [1688389487, 710414886]
-build_end_time: [1688389532, 744778156]
-inputs:
-  "/Users/macbookair/Documents/efiwe_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1688389439, 422626495]
-  "/Users/macbookair/Documents/efiwe_app/macos/Runner/AppDelegate.swift": [1686952608, 801134347]
-  "/Users/macbookair/Documents/efiwe_app/macos/Runner/MainFlutterWindow.swift": [1686952608, 805436611]
